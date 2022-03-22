@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/SAN-analytics/WEBSHOP-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
